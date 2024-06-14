@@ -44,7 +44,7 @@ This project is a RESTful API for a Course Management System within a Learning M
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/visorry/course-management-system.git
+   git clone https://github.com/abhaysinh-gaikwad/course-management-system.git
    cd course-management-system
    ```
 
